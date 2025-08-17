@@ -1,1 +1,2 @@
 Szerveroldali programozás tárgyra készített beadandó Laravelben, egy képzeletbeli állatkert gondozóportálja, amelyben implementálva vannak az alap CRUD operáciok, képek feltöltésével, one-to-many, many-to-many relációkkal, Sanctum autentikációval.
+Alap adatok seedelése Fakerrel, teszt admin / user belépési logika külön a seederben.
